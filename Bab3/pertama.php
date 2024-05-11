@@ -1,0 +1,3 @@
+<?php
+echo "BELAJARA PEMROGRAMAN PHP-MYSQL";
+?>
